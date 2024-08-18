@@ -1,5 +1,5 @@
 <div align="center">
- ![@isaac_cesar](https://github.com/user-attachments/assets/446a0216-81e5-4959-9e65-b67cf9058d9c.gif)
+ ![@isaac_cesar](https://github.com/user-attachments/assets/446a0216-81e5-4959-9e65-b67cf9058d9c)
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B30000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!++%E2%8A%B9+" alt="Typing SVG">
